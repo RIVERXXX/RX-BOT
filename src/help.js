@@ -20,7 +20,7 @@ Responde esta encuesta:
  │𒀸ꦼꦴ⇢ ${prefix}version
  │Conoce la versión de tu bot
  │𒀸ꦼꦴ⇢ ${prefix}welmenu
- │𒀸ꦼꦴ⇢ Comandos de bienvedia a grupos
+ │𒀸ꦼꦴ⇢ Comandos de bienvenida a grupos
  ╰❏
 
 ❍➣ *𝐑𝐄𝐒𝐔𝐄𝐋𝐕𝐄 𝐓𝐔𝐒 𝐃𝐔𝐃𝐀𝐒|𝐑𝐗-𝐁𝐎𝐓👹*
@@ -94,8 +94,9 @@ Responde esta encuesta:
 
 ❍➣ *CRÉDITOS*
   │ Juan Rivera : https:/Instagram.com/_juanriveraa/
-  │ Shanduy : http://bit.ly/Shandñuy
-  │ ÆZT : http://bit.ly/ÆZT
+  │ Canal de YT : https://youtube.com/channel/UC6W4j16j0SKe3sbjLdi_S-Q
+  │ GENOX : *jasonaguilar*
+  │ ESTEBAN ARANGO : *ARANGO*
   ╰❏     
     ╔══••ೋೋ••══╗
    BY:
